@@ -1,0 +1,197 @@
+[
+  {
+    "id": "node-0",
+    "name": "Water internet Accessible Distributed Information System",
+    "tapEndpoint": "http://vamdc.saga.iao.ru/node/wadis/tap/"
+  },
+  {
+    "id": "node-1",
+    "name": "NIST Atomic Spectra Database",
+    "tapEndpoint": "https://physics.nist.gov:8000/nodes/asd/tap/"
+  },
+  {
+    "id": "node-2",
+    "name": "CDMS",
+    "tapEndpoint": "https://cdms.astro.uni-koeln.de/cdms/tap/"
+  },
+  {
+    "id": "node-3",
+    "name": "MeCaSDa - Methane Calculated Spectroscopic Database",
+    "tapEndpoint": "http://vamdc.icb.cnrs.fr/mecasda-12.07/tap/"
+  },
+  {
+    "id": "node-4",
+    "name": "GeCaSDa: Gemane Calculated Spectroscopic Database",
+    "tapEndpoint": "http://vamdc.icb.cnrs.fr/gecasda/tap/"
+  },
+  {
+    "id": "node-5",
+    "name": "Theoretical spectral database of polycyclic aromatic hydrocarbons",
+    "tapEndpoint": "http://vamdc-pah.oa-cagliari.inaf.it/tap/"
+  },
+  {
+    "id": "node-6",
+    "name": "IDEADB - Innsbruck Dissociative Electron Attachment Database",
+    "tapEndpoint": "https://ideadb.uibk.ac.at/tap/"
+  },
+  {
+    "id": "node-7",
+    "name": "OACT - LASP Database",
+    "tapEndpoint": "http://dblasp.oact.inaf.it/node1207/OACT/tap/"
+  },
+  {
+    "id": "node-8",
+    "name": "Carbon Dioxide Spectroscopic Databank 296K (VAMDC-TAP)",
+    "tapEndpoint": "http://lts.iao.ru/node/cdsd-296-xsams1/tap/"
+  },
+  {
+    "id": "node-9",
+    "name": "Chianti",
+    "tapEndpoint": "http://vamdc.ast.cam.ac.uk/chianti7/tap/"
+  },
+  {
+    "id": "node-10",
+    "name": "GhoSST",
+    "tapEndpoint": "https://ghosst-archive.osug.fr/vamdc/tap/"
+  },
+  {
+    "id": "node-11",
+    "name": "Spectr-W3",
+    "tapEndpoint": "http://spectr-w3.snz.ru/vamdc/tap/"
+  },
+  {
+    "id": "node-12",
+    "name": "Hitran (VAMDC-TAP)",
+    "tapEndpoint": "https://hitran.org/tap/"
+  },
+  {
+    "id": "node-13",
+    "name": "Carbon Dioxide Spectroscopic Databank 1000K (VAMDC-TAP)",
+    "tapEndpoint": "http://lts.iao.ru/node/cdsd-1000-xsams1/tap/"
+  },
+  {
+    "id": "node-14",
+    "name": "TIPbase : VAMDC-TAP interface",
+    "tapEndpoint": "http://tipbase.obspm.fr/12.07/vamdc/tap/"
+  },
+  {
+    "id": "node-15",
+    "name": "Carbon Dioxide Spectroscopic Databank (VAMDC-TAP)",
+    "tapEndpoint": "http://lts.iao.ru/node/cdsd/tap/"
+  },
+  {
+    "id": "node-16",
+    "name": "TOPbase : VAMDC-TAP interface",
+    "tapEndpoint": "http://topbase.obspm.fr/12.07/vamdc/tap/"
+  },
+  {
+    "id": "node-17",
+    "name": "Stark-b",
+    "tapEndpoint": "http://stark-b.obspm.fr/12.07/vamdc/tap/"
+  },
+  {
+    "id": "node-18",
+    "name": "Carbon Dioxide Spectroscopic Databank (VAMDC-TAP)",
+    "tapEndpoint": "http://lts.iao.ru/node/cdsd_xsams0.3/tap/"
+  },
+  {
+    "id": "node-19",
+    "name": "SpEctroScopy of Atoms and Molecules",
+    "tapEndpoint": "http://sesam.obspm.fr/12.07/vamdc/tap/"
+  },
+  {
+    "id": "node-20",
+    "name": "Belgrade electron/atom(molecule) database (BEAMDB)",
+    "tapEndpoint": "http://servo.aob.rs/emol/tap/"
+  },
+  {
+    "id": "node-21",
+    "name": "SHeCaSDa - SF6 Calculated Spectroscopic Database",
+    "tapEndpoint": "http://vamdc.icb.cnrs.fr/shecasda-12.07/tap/"
+  },
+  {
+    "id": "node-22",
+    "name": "TFMeCaSDa - CF4 Calculated Spectroscopic Database",
+    "tapEndpoint": "http://vamdc.icb.cnrs.fr/tfmecasda/tap/"
+  },
+  {
+    "id": "node-23",
+    "name": "Photodissociation - MolD database",
+    "tapEndpoint": "http://servo.aob.rs/mold/tap/"
+  },
+  {
+    "id": "node-24",
+    "name": "RuCaSDa: Ruthenium tetroxide Calculated Spectroscopic Database",
+    "tapEndpoint": "http://vamdc.icb.cnrs.fr/rucasda-12.07/tap/"
+  },
+  {
+    "id": "node-25",
+    "name": "KIDA: Kinetic Database for Astrochemistry - TAP service",
+    "tapEndpoint": "https://vamdc.astrochem-tools.org/tap/"
+  },
+  {
+    "id": "node-26",
+    "name": "BASECOL2015: VAMDC-TAP interface",
+    "tapEndpoint": "http://basecoltap2015.vamdc.org/12_07/TAP/"
+  },
+  {
+    "id": "node-27",
+    "name": "AMDIS Ionization",
+    "tapEndpoint": "http://dbshino.nifs.ac.jp:4000/vamdc/tap/"
+  },
+  {
+    "id": "node-28",
+    "name": "Acetylene Spectroscopic Databank 1000K (VAMDC-TAP)",
+    "tapEndpoint": "http://lts.iao.ru/node/asd-1000/tap/"
+  },
+  {
+    "id": "node-29",
+    "name": "Nitrous Oxide Spectroscopic Databank 1000K (VAMDC-TAP)",
+    "tapEndpoint": "http://lts.iao.ru/node/nosd-1000/tap/"
+  },
+  {
+    "id": "node-30",
+    "name": "Nitrogen dioxide Spectroscopic Databank 1000K (VAMDC-TAP)",
+    "tapEndpoint": "http://lts.iao.ru/node/ndsd-1000/tap/"
+  },
+  {
+    "id": "node-31",
+    "name": "JPL database: VAMDC-TAP service",
+    "tapEndpoint": "https://cdms.astro.uni-koeln.de/jpl/tap/"
+  },
+  {
+    "id": "node-32",
+    "name": "TFSiCaSDa : Tetra-Fluoro Silane Calculated Spectroscopic Database",
+    "tapEndpoint": "http://vamdc.icb.cnrs.fr/tfsicasda-12.07/tap/"
+  },
+  {
+    "id": "node-33",
+    "name": "UHeCaSDa : Uranium Hexafluoride Calculated Spectroscopic Database",
+    "tapEndpoint": "http://vamdc.icb.cnrs.fr/uhecasda-12.07/tap/"
+  },
+  {
+    "id": "node-34",
+    "name": "Carbon Dioxide Spectroscopic Databank 4000K (VAMDC-TAP)",
+    "tapEndpoint": "http://lts.iao.ru/node/cdsd-4000-xsams1/tap/"
+  },
+  {
+    "id": "node-35",
+    "name": "AMBDAS: Atomic and Molecular Bibliographic Data System",
+    "tapEndpoint": "http://amdis.iaea.org/db/ambdas/tap/"
+  },
+  {
+    "id": "node-36",
+    "name": "ACol - database for collisional processes",
+    "tapEndpoint": "http://servo.aob.rs/acol/tap/"
+  },
+  {
+    "id": "node-37",
+    "name": "VALD atoms & molecules, observed & predicted lines",
+    "tapEndpoint": "https://vald.astro.uu.se/vamdc-all/tap/"
+  },
+  {
+    "id": "node-38",
+    "name": "VALD atoms & molecules, observed lines only",
+    "tapEndpoint": "https://vald.astro.uu.se/vamdc-obs/tap/"
+  }
+]
